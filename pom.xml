@@ -141,7 +141,7 @@
         </dependency>
 
         <dependency>
-            <groupId>net.guizhanss</groupId>
+            <groupId>com.github.SlimeFun-Lab</groupId>
             <artifactId>SlimefunTranslation</artifactId>
             <version>297c1d8278</version>
             <scope>provided</scope>
