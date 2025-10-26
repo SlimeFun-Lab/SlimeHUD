@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.schntgaispock.slimehud</groupId>
     <artifactId>SlimeHUD</artifactId>
-    <version>MODIFIED</version>
+    <version>4.1.0-UNOFFICIAL</version>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
@@ -95,21 +95,21 @@
         <dependency>
             <groupId>io.papermc.paper</groupId>
             <artifactId>paper-api</artifactId>
-            <version>1.21.1-R0.1-SNAPSHOT</version>
+            <version>1.21.10-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
 
         <dependency>
             <groupId>com.github.SlimeFun-Lab</groupId>
             <artifactId>Slimefun4</artifactId>
-            <version>3ea21da</version>
+            <version>6d5694e</version>
             <scope>provided</scope>
         </dependency>
 
         <dependency>
             <groupId>com.github.SlimeFun-Lab</groupId>
             <artifactId>InfinityLib</artifactId>
-            <version>d0cae07713</version>
+            <version>926c3cbeb3</version>
             <scope>compile</scope>
         </dependency>
 
@@ -143,7 +143,7 @@
         <dependency>
             <groupId>net.guizhanss</groupId>
             <artifactId>SlimefunTranslation</artifactId>
-            <version>81b930d5ad</version>
+            <version>297c1d8278</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
